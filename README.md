@@ -1,6 +1,17 @@
 Sample OCR
 ==========
 
+<div class="container">
+<div class="row">
+<div class="col">
+<img src="test.jpg" alt="test.jpg">
+</div>
+<div class="col">
+<img src="result.png" alt="result.png">
+</div>
+</div>
+</div>
+
 1. **Set up your environment:**
    - Install Python (if not already installed).
    - Install required libraries: `Pillow` for image handling, `pytesseract` for OCR, and `opencv-python` for image processing.
