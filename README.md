@@ -2,12 +2,12 @@ Sample OCR
 ==========
 
 <div class="container">
-<div class="row">
+<div class="row" style="display: flex; justify-content: space-around;">
 <div class="col">
-<img src="test.jpg" alt="test.jpg">
+<img width="240" src="test.jpg" alt="test.jpg">
 </div>
 <div class="col">
-<img src="result.png" alt="result.png">
+<img width="240" src="result.png" alt="result.png">
 </div>
 </div>
 </div>
