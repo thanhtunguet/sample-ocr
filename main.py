@@ -32,7 +32,7 @@ def extract_text_from_image(image_path):
 
 if __name__ == "__main__":
     # Path to the image
-    image_path = 'test.jpg'  # Update with your image path
+    image_path = 'test-03.jpg'  # Update with your image path
 
     # Extract text
     text = extract_text_from_image(image_path)
